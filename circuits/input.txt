@@ -1,0 +1,4 @@
+x=AND(a,b)
+y=AND(c,d)
+z=AND(x,c)
+f=AND(y,z)
